@@ -18,6 +18,6 @@ allprojects {
 # Step 2. Add the dependency
 ```
 dependencies {
-  implementation 'com.github.HMDevCoders:MySQLServiceLibrary:Tag'
+  implementation 'com.github.HMDevCoders:MySQLServiceLibrary:1.0'
 }
 ```
